@@ -1,0 +1,159 @@
+/* =========================== color =========================== */
+/* =========================== media =========================== */
+a {
+  color: #188eee;
+}
+a:hover,
+a:focus {
+  color: #188eee;
+  text-decoration: none;
+}
+.link-dark:hover,
+.link-light:hover,
+.link-white {
+  color: #188eee;
+}
+.text-primary,
+.color-primary {
+  color: #188eee !important;
+}
+.btn-link:hover,
+.btn-link:focus,
+.btn-link.focus {
+  color: #188eee;
+}
+.btn-primary {
+  border-color: #0e73c5;
+  background-color: #188eee;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary.active {
+  background-color: #0f78ce;
+}
+.label-primary {
+  background-color: #188eee;
+}
+.nav.nav-tabs > li.active > a,
+.nav.nav-tabs > li:hover > a {
+  border-color: #188eee;
+  color: #188eee;
+}
+.nav.nav-tabs > li.active > a .text-muted,
+.nav.nav-tabs > li:hover > a .text-muted {
+  color: #188eee;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color: #188eee;
+}
+.es-piece .piece-header {
+  border-color: #188eee;
+}
+.breadcrumb a:hover {
+  color: #188eee;
+}
+.course-detail-header .course-data > li .dropdown-toggle:hover,
+.course-detail-header .course-data > li > a:hover {
+  color: #188eee;
+}
+.es-tabs .tab-header > ul > li > a:hover {
+  color: #188eee;
+}
+.class-serve > ul > li.active {
+  background-color: #188eee;
+}
+.article-metas .metas-body .title a:hover {
+  color: #188eee;
+}
+.media.media-number .media-body > a:hover {
+  color: #188eee;
+}
+.btn-tag:hover {
+  color: #188eee;
+  border-color: #188eee;
+}
+.media-hot-comment .comments-info p a,
+.media-hot-comment .comments-info h5 a:hover {
+  color: #188eee;
+}
+.class-signin .btn-signin {
+  background-color: #188eee;
+}
+.sidenav .list-group .list-group-item.active {
+  border-color: #188eee;
+}
+.sidenav .list-group .list-group-item.active > a {
+  color: #188eee;
+}
+.es-bar-menu > ul > li.active,
+.es-bar-menu > ul > li:hover {
+  background-color: #188eee;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #188eee;
+  border-color: #188eee;
+}
+.badge-primary {
+  background-color: #188eee;
+}
+.es-filter .nav-sort > li > a:hover,
+.es-filter .nav-sort > li > a.active {
+  background-color: #188eee;
+  color: #fff;
+}
+.es-filter .filter label:hover {
+  color: #188eee;
+}
+.class-header.after .class-data > li > a:hover {
+  color: #188eee;
+}
+.class-header .class-data > li .dropdown-toggle:hover {
+  color: #188eee;
+}
+.progress-bar,
+.rank_num {
+  background-color: #188eee;
+}
+.bar-task .bar-task-header,
+.bar-task .bar-time-line > li:before {
+  background-color: #188eee;
+}
+.bar-task .bar-time-line > li .es-icon {
+  color: #188eee;
+}
+.nav-filter .nav-pills > li.dropdown > a:hover {
+  color: #188eee;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > li > a:hover {
+  background-color: #188eee;
+}
+.page-header .badge {
+  background-color: #188eee !important;
+}
+.es-tabs .tab-body > ul > li.active > a,
+.es-tabs .tab-body > ul > li > a:hover {
+  color: #188eee;
+}
+.nav.nav-tabs .highlight {
+  border-color: #188eee;
+}
+.link-dark:hover {
+  color: #188eee !important;
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  background-color: #188eee;
+  border-color: #188eee;
+}
